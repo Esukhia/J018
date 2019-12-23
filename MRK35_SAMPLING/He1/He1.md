@@ -5,7 +5,7 @@
 - [ ] [54a.6]
 - [ ] [54a.7]
 
-![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/He1/He036-01173.jpg)
+![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/He1/He036-0173.jpg)
 - [ ] [68b]
 - [ ] [68b.1]
 - [ ] [68b.2]
