@@ -1,6 +1,6 @@
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Ba/377.JPG)
 - [ ] [80b]
-- [ ] [80b.1] text, text, text, text, text, text, text, text
+- [ ] [80b.1]འཛིན་སངས་རྒྱས་བྱེ་བ་ཕྲག །དགུ་བཅུ་་་་
 - [ ] [80b.2] text, text, text, text, text, text, text, text
 - [ ] [80b.3] text, text, text, text, text, text, text, text
 - [ ] [80b.4] text, text, text, text, text, text, text, text
