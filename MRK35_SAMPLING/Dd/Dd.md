@@ -29,6 +29,7 @@
 - [ ] [405a.6]
 
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Dd/Dd064-0406.jpg)
+- [ ] [406a]
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Dd/Dd064-0417.jpg)
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Dd/Dd064-0418.jpg)
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Dd/Dd064-0419.jpg)
