@@ -24,12 +24,17 @@
 - [ ] [405a.1]
 - [ ] [405a.2]
 - [ ] [405a.3]
-- [ ] [405a.4]
-- [ ] [405a.5]
-- [ ] [405a.6]
 
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Dd/Dd064-0406.jpg)
-- [ ] [406a]
+- [ ] [404b]
+- [ ] [404b.1]
+- [ ] [404b.2]
+- [ ] [404b.3]
+- [ ] [404b.4]
+- [ ] [404b.5]
+- [ ] [404b.6]
+- [ ] [405b]
+
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Dd/Dd064-0417.jpg)
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Dd/Dd064-0418.jpg)
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Dd/Dd064-0419.jpg)
