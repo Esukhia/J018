@@ -1,27 +1,11 @@
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Cz/Cz022-0469.jpg)
+
 - [ ] [69a]
-- [ ] [69a.1]
-- [ ] [69a.2]
-- [ ] [69a.3]
-- [ ] [69a.4]
-- [ ] [69a.5]
-- [ ] [69a.6]
 - [ ] [70a]
-- [ ] [70a.1]
-- [ ] [70a.2]
-- [ ] [70a.3]
-- [ ] [70a.4]
-- [ ] [70a.5]
 - [ ] [70a.6]
 
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Cz/Cz022-0470.jpg)
 - [ ] [69b]
-- [ ] [69b.1]
-- [ ] [69b.2]
-- [ ] [69b.3]
-- [ ] [69b.4]
-- [ ] [69b.5]
-- [ ] [69b.6]
 - [ ] [70b]
 - [ ] [70b.1]
 - [ ] [70b.2]
@@ -29,3 +13,13 @@
 - [ ] [70b.4]
 - [ ] [70b.5]
 - [ ] [70b.6]
+
+![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Cz/Cz022-0471.jpg)
+
+![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Cz/Cz022-0472.jpg)
+
+![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Cz/Cz022-0485.jpg)
+
+![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Cz/Cz022-0486.jpg)
+
+![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Cz/Cz022-0487.jpg)
