@@ -1,4 +1,4 @@
-# J008
+# J018
 MRK35_SAMPLING
 
 Sampling of the available Tibetan witnesses of MRK35 (*Acintyabuddhaviṣayanirdeśa*)
