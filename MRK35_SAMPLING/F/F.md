@@ -18,7 +18,7 @@
 - [ ] [33b.6]
 - [ ] [33b.7]
 - [ ] [33b.8]
-![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/F/F052-06669.jpg)
+![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/F/F052-0669.jpg)
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/F/F052-0670.jpg)
 - [ ] [47b] 
 - [ ] [47b.4] དེར་ཕྱིན་པ་དང། འདི་ལྟར་་་་་་་་་་་་་་་་
