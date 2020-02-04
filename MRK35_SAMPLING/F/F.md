@@ -1,5 +1,5 @@
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/F/F052-0643.jpg)
-- [ ] [31a]
+- [ ] [21a]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/F/F052-0667.jpg)
 - [ ] [33a] ཅ སོ་སུམ།
 - [ ] [33a3] ཆོས་སྟོན་ཏེ། འཇམ་དཔལ་གཞོན་ནུར
