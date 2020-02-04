@@ -29,6 +29,9 @@
 - [ ] [44a.7]
 - [ ] [44a.8]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/F/F052-0670.jpg)
+- [ ] [44b]
+- [ ] [44b.1] སྠ་ཏ་ཏྭེ། ་་་་་་་་་་་
+- [ ] [44b.2]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/F/F052-0694.jpg)
 - [ ] [47b] 
 - [ ] [47b.4] དེར་ཕྱིན་པ་དང། འདི་ལྟར་་་་་་་་་་་་་་་་
