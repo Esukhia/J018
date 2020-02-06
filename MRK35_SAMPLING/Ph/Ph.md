@@ -1,0 +1,6 @@
+![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ph/ph16-12.jpg)
+![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ph/ph16-13.jpg)
+![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ph/ph16-20.jpg)
+![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ph/ph16-21.jpg)
+![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ph/ph16-28.jpg)
+![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ph/ph16-29.jpg)
