@@ -10,6 +10,7 @@
 - [ ] [451a.6]
 - [ ] [451a.7]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/S/S039-0924.jpg)
+- [ ] [451b]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/S/S039-0925.jpg)
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/S/S039-0926.jpg)
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/S/S039-0949.jpg)
