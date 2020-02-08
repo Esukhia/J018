@@ -7,10 +7,10 @@
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ng/Ng014-0260.jpg)
 - [ ] [68b]
 - [ ] [68b.5]
-- [ ] [68b.5]
 - [ ] [68b.6]
 - [ ] [68b.7]
 - [ ] [68b.8]
+- [ ] [68b.9]
 - [ ] [69a] ཕ བསམ་པ། ར་རྒུ
 - [ ] [69a.1] ༄༅། །ཀྱིས་དབང་སྒྱུར་བ་རྣམ་པར་
 - [ ] [69a.2]
@@ -22,14 +22,14 @@
 - [ ] [69a.8]
 - [ ] [69a.9]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ng/Ng014-0261.jpg)
-- [ ] [91b]
-- [ ] [91b.1]
-- [ ] [91b.2]
-- [ ] [91b.3]
-- [ ] [91b.4]
+- [ ] [59b]
+- [ ] [59b.1]
+- [ ] [59b.2]
+- [ ] [59b.3]
+- [ ] [59b.4]
 - [ ] [60a]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ng/Ng014-0269.jpg)
-- [ ] [60b]
+- [ ] [67b]
 - [ ] [68a]
 - [ ] [68a.1]
 - [ ] [68a.2]
