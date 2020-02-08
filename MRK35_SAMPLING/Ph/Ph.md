@@ -1,5 +1,5 @@
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ph/ph16-12.jpg)
-- [ ] [b]
+- [ ] [37b]
 - [ ] [38a]
 - [ ] [38a.9]
 - [ ] [38a.10]
@@ -36,16 +36,13 @@
 
 - [ ] [37a] ཅ་མ ༣བདུན།
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ph/ph16-28.jpg)
-- [ ] [34b]
-- [ ] [34b.]
-
-
+- [ ] [33b]
 
 - [ ] [34a] ཅ་མ བཞི།
-- [ ] [34a.1]
-- [ ] [34a.2]
-- [ ] [34a.3]
-- [ ] [34a.4]
+- [ ] [34a.7]
+- [ ] [34a.8]
+- [ ] [34a.9]
+- [ ] [34a.10]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Ph/ph16-29.jpg)
 - [ ] [34b]
 - [ ] [34b.1]གིས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་པོས་ཕྱག་འཚལ་ཏེ། ་་་་་་་་་་་་་་་་་་་་་་་་་་་་་
