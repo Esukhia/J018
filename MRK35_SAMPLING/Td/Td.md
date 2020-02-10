@@ -5,7 +5,16 @@
 - [ ] [385b.4]
 - [ ] [386b]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Td/Td087-0385.jpg)
+- [ ] [385a]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Td/Td087-0386.jpg)
+- [ ] [386a]
+- [ ] [386a.]
+- [ ] [386a.]
+- [ ] [386a.]
+- [ ] [386a.]
+- [ ] [386a.]
+- [ ] [386a.]
+- [ ] [386a.]
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Td/Td087-0387.jpg)
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Td/Td087-0398.jpg)
 ![](https://github.com/Esukhia/J018/blob/master/MRK35_SAMPLING/Td/Td087-0399.jpg)
