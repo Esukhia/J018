@@ -20,10 +20,10 @@
 - [ ] [68b.5]
 - [ ] [68b.6]
 - [ ] [69a]
-![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/He1/He036-0185.jpg)
+![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/He1/He036-0187.jpg)
 - [ ] [80b]
 - [ ] [81a]
-- [ ] [81a.5] འདི་ལ་ཡང་བསྐྱར་ལན་ཅིག་གཟིགས་པར་མཛོད།
+- [ ] [81a.5]
 - [ ] [81a.6]
 - [ ] [81a.7]
 - [ ] [81a.8]
