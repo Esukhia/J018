@@ -1,100 +1,74 @@
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Ba/377.JPG)
 - [ ] [80b]
 - [ ] [80b.1]འཛིན་སངས་རྒྱས་བྱེ་བ་ཕྲག །དགུ་བཅུ་་་་
-- [ ] [80b.2] text, text, text, text, text, text, text, text
-- [ ] [80b.3] text, text, text, text, text, text, text, text
-- [ ] [80b.4] text, text, text, text, text, text, text, text
-- [ ] [80b.5] text, text, text, text, text, text, text, text
-- [ ] [80b.6] text, text, text, text, text, text, text, text
-- [ ] [80b.7] text, text, text, text, text, text, text, text
-
+- [ ] [80b.2]
 - [ ] [81a] ཅ གྱ་གཅིག དཀོན།
-- [ ] [81a.1] text, text, text, text, text, text, text, text
-- [ ] [81a.2] text, text, text, text, text, text, text, text
-- [ ] [81a.3] text, text, text, text, text, text, text, text
-- [ ] [81a.4] text, text, text, text, text, text, text, text
-- [ ] [81a.5] text, text, text, text, text, text, text, text
-- [ ] [81a.6] text, text, text, text, text, text, text, text
-- [ ] [81a.7] text, text, text, text, text, text, text, text
-
+- [ ] [81a.2]
+- [ ] [81a.3] 
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Ba/391.JPG)
 - [ ] [94b] 
-- [ ] [94b.1] text, text, text, text, text, text, text, text
-- [ ] [94b.2] text, text, text, text, text, text, text, text
-- [ ] [94b.3] text, text, text, text, text, text, text, text
-- [ ] [94b.4] text, text, text, text, text, text, text, text
-- [ ] [94b.5] text, text, text, text, text, text, text, text
-- [ ] [94b.6] text, text, text, text, text, text, text, text
-- [ ] [94b.7] text, text, text, text, text, text, text, text
-
+- [ ] [94b.7]
 - [ ] [95a] ཅ གོ་ལྔ། དཀོན།
-- [ ] [95a.1] text, text, text, text, text, text, text, text
-- [ ] [95a.2] text, text, text, text, text, text, text, text
-- [ ] [95a.3] text, text, text, text, text, text, text, text
-- [ ] [95a.4] text, text, text, text, text, text, text, text
-- [ ] [95a.5] text, text, text, text, text, text, text, text
-- [ ] [95a.6] text, text, text, text, text, text, text, text
-- [ ] [95a.7] text, text, text, text, text, text, text, text
-
+- [ ] [95a.1] 
+- [ ] [95a.2] 
+- [ ] [95a.3] 
+- [ ] [95a.4] 
+- [ ] [95a.5] 
+- [ ] [95a.6] 
+- [ ] [95a.7] 
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Ba/392.JPG)
-- [ ] [80b]
-- [ ] [80b.1] text, text, text, text, text, text, text, text
-- [ ] [80b.2] text, text, text, text, text, text, text, text
-- [ ] [80b.3] text, text, text, text, text, text, text, text
-- [ ] [80b.4] text, text, text, text, text, text, text, text
-- [ ] [80b.5] text, text, text, text, text, text, text, text
-- [ ] [80b.6] text, text, text, text, text, text, text, text
-- [ ] [80b.7] text, text, text, text, text, text, text, text
-
-- [ ] [81a]
-- [ ] [81a.1] text, text, text, text, text, text, text, text
-- [ ] [81a.2] text, text, text, text, text, text, text, text
-- [ ] [81a.3] text, text, text, text, text, text, text, text
-- [ ] [81a.4] text, text, text, text, text, text, text, text
-- [ ] [81a.5] text, text, text, text, text, text, text, text
-- [ ] [81a.6] text, text, text, text, text, text, text, text
-- [ ] [81a.7] text, text, text, text, text, text, text, text
+- [ ] [95b]
+- [ ] [95b.1]
+- [ ] [95b.2]
+- [ ] [95b.3]
+- [ ] [95b.4]
+- [ ] [95b.5]
+- [ ] [95b.6]
+- [ ] [95b.7]
+- [ ] [96a]
+- [ ] [96a.1]
+- [ ] [96a.2]
+- [ ] [96a.3]
+- [ ] [96a.4]
+- [ ] [96a.5]
+- [ ] [96a.6]
+- [ ] [96a.7]
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Ba/393.JPG)
-- [ ] [80b]
-- [ ] [80b.1] text, text, text, text, text, text, text, text
-- [ ] [80b.2] text, text, text, text, text, text, text, text
-- [ ] [80b.3] text, text, text, text, text, text, text, text
-- [ ] [80b.4] text, text, text, text, text, text, text, text
-- [ ] [80b.5] text, text, text, text, text, text, text, text
-- [ ] [80b.6] text, text, text, text, text, text, text, text
-- [ ] [80b.7] text, text, text, text, text, text, text, text
-
-- [ ] [81a]
-- [ ] [81a.1] text, text, text, text, text, text, text, text
-- [ ] [81a.2] text, text, text, text, text, text, text, text
-- [ ] [81a.3] text, text, text, text, text, text, text, text
-- [ ] [81a.4] text, text, text, text, text, text, text, text
-- [ ] [81a.5] text, text, text, text, text, text, text, text
-- [ ] [81a.6] text, text, text, text, text, text, text, text
-- [ ] [81a.7] text, text, text, text, text, text, text, text
+- [ ] [96b]
+- [ ] [96b.1]
+- [ ] [96b.2]
+- [ ] [96b.3]
+- [ ] [97a]
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Ba/406.JPG)
-- [ ] [80b]
-- [ ] [80b.1] text, text, text, text, text, text, text, text
-- [ ] [80b.2] text, text, text, text, text, text, text, text
-- [ ] [80b.3] text, text, text, text, text, text, text, text
-- [ ] [80b.4] text, text, text, text, text, text, text, text
-- [ ] [80b.5] text, text, text, text, text, text, text, text
-- [ ] [80b.6] text, text, text, text, text, text, text, text
-- [ ] [80b.7] text, text, text, text, text, text, text, text
-
-- [ ] [81a]
-- [ ] [81a.1] text, text, text, text, text, text, text, text
-- [ ] [81a.2] text, text, text, text, text, text, text, text
-- [ ] [81a.3] text, text, text, text, text, text, text, text
-- [ ] [81a.4] text, text, text, text, text, text, text, text
-- [ ] [81a.5] text, text, text, text, text, text, text, text
-- [ ] [81a.6] text, text, text, text, text, text, text, text
-- [ ] [81a.7] text, text, text, text, text, text, text, text
-
+- [ ] [9b]
+- [ ] [9b.2]
+- [ ] [9b.3]
+- [ ] [9b.4]
+- [ ] [9b.5]
+- [ ] [9b.6]
+- [ ] [9b.7]
+- [ ] [10a]
+- [ ] [10a.1]
+- [ ] [10a.2]
+- [ ] [10a.3]
+- [ ] [10a.4]
+- [ ] [10a.5]
+- [ ] [10a.6]
+- [ ] [10a.7]
 ![](https://github.com/Esukhia/J008/blob/master/MRK35_SAMPLING/Ba/407.JPG)
+- [ ] [410b]
+- [ ] [410b.1]
+- [ ] [410b.2]
+- [ ] [410b.3]
+- [ ] [410b.4]
+- [ ] [410b.5]
+- [ ] [410b.6]
+- [ ] [410b.7]
+- [ ] [411a]
+- [ ] [411a.1]
+- [ ] [411a.2]
+- [ ] [411a.3]
+- [ ] [411a.4]
+- [ ] [411a.5]
+- [ ] [411a.6]
 
-
-
-- [ ] [81b]
-- [ ] [81b.1] text, text, text, text, text, text, text, text
-- [ ] .....
