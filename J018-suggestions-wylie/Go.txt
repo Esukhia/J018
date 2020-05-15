@@ -1,5 +1,5 @@
 [Go-235]
-_'phags pa dkon mchog brtsegs pa chen po'i chos kyi rnam grangs le'u stong phrag brgya pa las/_/le'u sum [(]bcu [,]cu [)]lnga pa ste/_sangs rgyas kyi yul bsam gyis mi khyab pa bstan pa/_bam po dang po'o//_//
+_'phags pa dkon mchog brtsegs pa chen po'i chos kyi rnam grangs le'u stong phrag brgya pa las/_/le'u sum (bcu,cu) lnga pa ste/_sangs rgyas kyi yul bsam gyis mi khyab pa bstan pa/_bam po dang po'o//_//
 @/_/rgya gar skad du/_ar+ya a tsin t+ya bud d+ha bi shi ya nir de sha nA ma ma hA ya na su tra/_bod skad du/_'phags pa lha'i bu dpal bzangs kyis zhus pa zhes bya ba theg pa chen po'i mdo'/_/sangs rgyas dang 
 byang chub sems dpa' thams cad la phyag 'tshal lo/_/'di skad bdag gis thos pa'i dus gcig na/_
 [Go-243]
@@ -12,11 +12,11 @@ de nas bcom ldan 'das kyis bdud sdig can du mkhyend bzhin du sems can tshad myed
 [Go-244]
 gzhon nur gyurd pas chos thams cad sems kyi dbang sgyur ba rnam par 'phrul ba'i ting nge 'dzind la snyoms par zhugs ma thag tu/_de nas de'i mod la thams cad dang ldan pa'i 'khor des 'jam dpal gzhon nur gyurd pa'i 
 rdzu 'phrul rnam par 'phrul ba'i cho 'phrul bcom ldan 'das kyis ji skad gsungs pa de bzhin du ma chad pa dang /_ma lhag pa dang /_myi mang bar mthong ngo /_/de nas thams cad dang ldan pa'i 'khor des cho 'phrul de mthong nas 
-ngo mtshard [(]du [,]tu [)]gyurd te/_sangs rgyas 'byung ba legs so/_legs so/_/sangs rgyas 'byung ba ni sems can rnams la don chen por nye bar gnas so/_/de byung bas skyes bu dam pa 'di lta bu 'di dag kyang 'jig 
-rten du byung ba yin no/_/cho 'phrul bsam gyis myi khyab pa 'di yang 'jig rten na snang ba yin no zhes ched du brjod pa ched du brjod do/_/de nas bdud sdig can gyis cho 'phrul de mthong [(]te [,]ste [)]ngo mtshar du gyurd nas thal mo sbyard 
-te/_'jam dpal gzhon nur gyurd pa la phyag 'tshal zhing tshig 'di skad ces smras so/_/'jam dpal gzhon nur gyurd pa'i rdzu 'phrul gyi [(]'cho [,]cho [)]'phrul bsam gyis myi khyab ste ngo mtshard to/_/sems can gang 
-dag cho 'phrul bshad pa 'di thos nas mos pa de dag ngo mtshar che bar bdag gis bsams so/_/bcom ldan 'das gal te bdud sdig can gang [(]'ga'i [,]gA'i [)]klung gi bye ma snyed du gyurd kyang /_de ltar mos pa'i sems can 
-de la bar chad bgyi ba'i rngo myi [(]thog [,]thogs [)]lags so/_/bcom ldan 'das bdud sdig can bdag ni rtag tu rgyun myi chad par de bzhin gshegs pa la glags lta zhing skabs tshol ba dang /_sems can rnams la yang gtse bar sems pa dang /_
+ngo mtshard (du,tu) gyurd te/_sangs rgyas 'byung ba legs so/_legs so/_/sangs rgyas 'byung ba ni sems can rnams la don chen por nye bar gnas so/_/de byung bas skyes bu dam pa 'di lta bu 'di dag kyang 'jig 
+rten du byung ba yin no/_/cho 'phrul bsam gyis myi khyab pa 'di yang 'jig rten na snang ba yin no zhes ched du brjod pa ched du brjod do/_/de nas bdud sdig can gyis cho 'phrul de mthong (te,ste) ngo mtshar du gyurd nas thal mo sbyard 
+te/_'jam dpal gzhon nur gyurd pa la phyag 'tshal zhing tshig 'di skad ces smras so/_/'jam dpal gzhon nur gyurd pa'i rdzu 'phrul gyi ('cho,cho) 'phrul bsam gyis myi khyab ste ngo mtshard to/_/sems can gang 
+dag cho 'phrul bshad pa 'di thos nas mos pa de dag ngo mtshar che bar bdag gis bsams so/_/bcom ldan 'das gal te bdud sdig can gang ('ga'i,gA'i) klung gi bye ma snyed du gyurd kyang /_de ltar mos pa'i sems can 
+de la bar chad bgyi ba'i rngo myi (thog,thogs) lags so/_/bcom ldan 'das bdud sdig can bdag ni rtag tu rgyun myi chad par de bzhin gshegs pa la glags lta zhing skabs tshol ba dang /_sems can rnams la yang gtse bar sems pa dang /_
 brtson pa'i gang zag rnams kyi dge ba'i rtsa ba'i bar chad bgyi ba'i slad du yang zhugs pa lags te/_bcom ldan 'das deng slan chad grong dang grong khyer dang /_grong brdal dang /_ljongs dang /_yul 'khor dang /_pho brang 'khor nang na 
 chos kyi rnam grangs 'di rab tu spyod pa der/_khor ra 'khor yug tu dpag tshad brgya tshun chad du myig gis myi rtsol bar bgyi ba'i slad du/_bdag myi 'chi bar bdag yi dam de lta bu blang bar bgyi'o/_/gang dag 'chang ba dang /_
 'chad pa dang /_stond pa dang /_so sor rtog pa dang /_sgrub pa de la stond pa la bgyi ba ltar gus pa bskyed par bgyi'o/_/bcom ldan 'das 'ond tu lags kyang /_bdag gi 'khor gang de bzhin gshegs pa'i bstand 
